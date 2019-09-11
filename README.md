@@ -12,4 +12,4 @@ DirectAdmin版本1.58.1
 SKIN版本
 version=d309fc23d7eb1fe6d4987353fb678fc17511fcbe
 
-说明：采用的是POedit免费版翻译的，翻译率95%以上，个人水平有限还请更新。本项目directadmin汉化包每半年更新一次。
+说明：采用的是POedit免费版制作po文件，人工翻译率95%以上，个人水平有限还请更新。本项目directadmin汉化包每半年更新一次。
